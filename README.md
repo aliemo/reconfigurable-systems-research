@@ -21,3 +21,12 @@ Journals on system and architecture, FPGA/ASIC, cryptography, computational biol
 [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)
 
 [IEEE Transactions on Biomedical Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4156126)
+
+[IEEE Transactions on Circuits and Systems I - Regular Papers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8919)
+
+[IEEE Transactions on Parallel and Distributed Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71)
+
+[IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8857)
+
+[IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
+
