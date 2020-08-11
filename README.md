@@ -30,3 +30,11 @@ Journals on system and architecture, FPGA/ASIC, cryptography, computational biol
 
 [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
 
+[IEEE Transactions on Circuits and Systems II - Express Briefs](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8920)
+
+[IEEE Transactions on Very Large Scale Integration (VLSI) Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=92)
+
+[IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)
+
+[IEEE Transactions on Consumer Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30)
+
